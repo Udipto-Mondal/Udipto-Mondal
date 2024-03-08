@@ -1,6 +1,6 @@
 
   Hello,    
-I'm Udipta Mondal! 
+I'm Udipta Mondal
 
 I am a Computer Science and Engineering student at Presidency University, passionate about coding and problem-solving. My journey in the world of programming has been shaped by my love for C and C++. I thrive on challenges and find joy in turning complex problems into elegant solutions.
 
