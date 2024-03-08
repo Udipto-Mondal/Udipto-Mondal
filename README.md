@@ -11,5 +11,5 @@ Interests: Competitive Programming, Software Development
 🚀 What I Do
 I actively engage in problem-solving and enjoy participating in coding competitions. My GitHub is a showcase of my coding journey, where I share solutions, projects, and insights from my programming experiences.
 
-🌱 Learning
+ Learning
 I am always eager to learn and explore new technologies. Currently, I am focusing on honing my skills in problem solving.
