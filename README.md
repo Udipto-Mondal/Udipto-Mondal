@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi I'm Udipto</h1>
 <h3 align="center">I am a Computer Science and Engineering student</h3>
-<img align="right" alt="codeing" width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3p2MeipQ11ANG0RyCEnnCh&ust=1711866496542000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjin-2tm4UDFQAAAAAdAAAAABAQ">
+<img align="right" alt="codeing" width="400"src="![image](https://github.com/Udipto-Mondal/Udipto-Mondal/assets/131182197/decc3896-5c40-4310-9916-2a77ac84c7f6)
+>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udipto-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="udipto-mondal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udipto-mondal" alt="udipto-mondal" /></a> </p>
