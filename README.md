@@ -1,11 +1,12 @@
 
 <h1 align="center">Hi I'm Udipto</h1>
 <h3 align="center">I am a Computer Science and Engineering student</h3>
-<img align="right" alt="codeing" width="400"src="![image](https://github.com/Udipto-Mondal/Udipto-Mondal/assets/131182197/decc3896-5c40-4310-9916-2a77ac84c7f6)
+<img align="right" alt="codeing" width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+
 >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udipto-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="udipto-mondal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udipto-mondal" alt="udipto-mondal" /></a> </p>
+
 
 - 🔭 I’m currently working on **Library Management System**
 
