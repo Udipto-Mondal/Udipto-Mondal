@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Library Management System**
 
-- 🌱 I’m currently learning **Pandas,Matplotlib**
+- 🌱 I’m currently learning **Pandas,Matplotlib.**
 
-- 📝 I regularly write articles on [a machine learning project](a machine learning project)
+- 📝 I regularly write articles on [a machine learning project]
 
 - 📫 How to reach me **ahondipto@gmail.com**
 
