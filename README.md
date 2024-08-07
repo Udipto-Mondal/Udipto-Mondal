@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udipto-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="udipto-mondal" /> </p>
 
 
-<h1 align="center">I'm a Computer Science student with a strong focus on competitive programming and algorithmic problem solving. My journey in tech is driven by a deep curiosity to understand how things work under the hood and a relentless desire to improve my coding skills.</h1>
+<h4 align="center">I'm a Computer Science student with a strong focus on competitive programming and algorithmic problem solving. My journey in tech is driven by a deep curiosity to understand how things work under the hood and a relentless desire to improve my coding skills.</h4>
 
 💡 Exploring: Data Structures, Algorithms, and System Design
 🏆 Competing: Active participant in online coding contests (Codeforces, CodeChef, etc.) and contestant of the  ICPC Asia Dhaka Regional Contest 2023
