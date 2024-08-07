@@ -7,12 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udipto-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="udipto-mondal" /> </p>
 
 
+I'm a Computer Science student with a strong focus on competitive programming and algorithmic problem solving. My journey in tech is driven by a deep curiosity to understand how things work under the hood and a relentless desire to improve my coding skills.
 
-- 🔭 I’m currently working on **Library Management System**
-
-- 🌱 I’m currently learning **Pandas,Matplotlib.**
-
-- 📝 I regularly write articles on [a machine learning project]
+💡 Exploring: Data Structures, Algorithms, and System Design
+🏆 Competing: Active participant in online coding contests (Codeforces, CodeChef, etc.) and contestant of the  ICPC Asia Dhaka Regional Contest 2023
+🛠️ Building: Projects that challenge me to apply what I've learned in new and creative ways
+Dengue Prediction using ML: Leveraging machine learning to predict dengue outbreaks.
+Library Management Project: Developing a system to manage library resources efficientl.
 
 - 📫 How to reach me **ahondipto@gmail.com**
 
