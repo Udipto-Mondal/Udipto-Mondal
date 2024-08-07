@@ -1,4 +1,4 @@
-
+<h3 align="center">I am a Computer Science and Engineering student</h3>
 <h1 align="center">Hi I'm Udipto</h1>
 
 <img align="right" alt="codeing" width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
