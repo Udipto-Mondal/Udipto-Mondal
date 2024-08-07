@@ -9,10 +9,11 @@
 
 <h4 align="center">I'm a Computer Science student with a strong focus on competitive programming and algorithmic problem solving. My journey in tech is driven by a deep curiosity to understand how things work under the hood and a relentless desire to improve my coding skills.</h4>
 
-💡 Exploring: Data Structures, Algorithms, and System Design </br>
-🛠️ Project:Dengue Prediction using ML: Leveraging machine learning to predict dengue outbreaks</br>
-🛠️ Project:Library Managemet System : Developing a system to manage library resources efficientl.</br>
-🏆 Competing: Active participant in online coding contests(Codeforces,CodeChef,etc.)and contestant of the ICPC Asia Dhaka Regional Contest 2023.</br>
+<p style="color: #007acc;">💡 Exploring: Data Structures, Algorithms, and System Design.</p>
+<p style="color: #28a745;">🛠️ Project: Dengue Prediction using ML: Leveraging machine learning to predict dengue outbreaks.</p>
+<p style="color: #28a745;">🛠️ Project: Library Management System: Developing a system to manage library resources efficiently.</p>
+<p style="color: #ff6347;">🏆 Competing: Active participant in online coding contests (Codeforces, CodeChef, etc.) and contestant of the ICPC Asia Dhaka Regional Contest 2023.</p>
+
 
 - 📫 How to reach me **ahondipto@gmail.com**
 
