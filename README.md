@@ -1,4 +1,4 @@
-<h3 align="center">I am a Computer Science and Engineering student</h3>
+
 <h1 align="center">Hi I'm Udipto</h1>
 
 <table>
