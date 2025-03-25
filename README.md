@@ -13,7 +13,7 @@ I'm a Computer Science student with a strong focus on competitive programming an
 <p style="color: #007acc;">💡 Exploring: Data Structures, Algorithms, and System Design.</p>
 <p style="color: #ff6347;">🏆 Competing: Active participant in online coding contests (Codeforces, CodeChef, etc.) and contestant of the ICPC Asia Dhaka Regional Contest 2023.</p>
 
--  Reach me **ahondipto@gmail.com**
+ Reach me : **ahondipto@gmail.com**
 
 
 
