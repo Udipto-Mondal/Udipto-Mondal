@@ -20,18 +20,17 @@ I'm a Computer Science student with a strong focus on competitive programming an
 
 ## 
 
-<!-- Font Awesome for icons -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
-<h1>
+<<h1>
   <p>
     <strong>
       <a href="https://github.com/Udipto-Mondal/Resume-/blob/main/Resume.pdf" target="_blank" style="text-decoration: none; color: white; font-size: 24px;">
-        <i class="fas fa-file-alt"></i> Resume
+        <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="Resume Icon" width="24" height="24" style="vertical-align: middle; margin-right: 8px;">
+        Resume
       </a>
     </strong>
   </p>
 </h1>
+
 
 
 
