@@ -22,20 +22,8 @@ I'm a Computer Science student with a strong focus on competitive programming an
 📄 [View My Resume](https://github.com/Udipto-Mondal/Resume-/blob/main/Resume.pdf)
   
 
-- 🎓 **Education**: Computer Science Student  
-- 💻 **Technical Skills**:  
-  - Programming Languages: C, C++, Java, Python  
-  - Web Development: HTML, CSS, JavaScript  
-  - Databases: MySQL  
-  - Frameworks: .NET  
-  - Problem Solving: Competitive Programming, Algorithm Optimization  
-- 🏆 **Achievements**:  
-  - ICPC Asia Dhaka Regional Contest 2023 Contestant  
-  - Active participant in Codeforces, CodeChef, LeetCode challenges  
 
----
-
-## 🔨 Projects
+##   Projects :
 
 ### 📌 Dengue Prediction using ML  
 - Developed a machine learning model to predict dengue outbreaks based on environmental and historical data.  
