@@ -16,20 +16,6 @@ I'm a Computer Science student with a strong focus on competitive programming an
 -  How to reach me **ahondipto@gmail.com**
 
 ---
-
-
-## 
-
-<h1>
-  <p>
-    <strong><big></big> 
-      <a href="https://github.com/Udipto-Mondal/Resume-/blob/main/Resume.pdf" target="_blank">
-        <u>Resume</u>
-      </a>
-    </strong>
-  </p>
-</h1>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -103,6 +89,20 @@ I'm a Computer Science student with a strong focus on competitive programming an
     </div>
 </body>
 </html>
+
+
+## 
+
+<h1>
+  <p>
+    <strong><big></big> 
+      <a href="https://github.com/Udipto-Mondal/Resume-/blob/main/Resume.pdf" target="_blank">
+        <u>Resume</u>
+      </a>
+    </strong>
+  </p>
+</h1>
+
 
 
 
