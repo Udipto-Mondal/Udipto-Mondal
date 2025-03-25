@@ -18,8 +18,8 @@ I'm a Computer Science student with a strong focus on competitive programming an
 ---
 
 
-## 📝 Resume
-📄 [View My Resume](https://github.com/Udipto-Mondal/Resume-/blob/main/Resume.pdf)
+## 
+📄 [ Resume](https://github.com/Udipto-Mondal/Resume-/blob/main/Resume.pdf)
   
 
 
