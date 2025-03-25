@@ -33,16 +33,48 @@ I'm a Computer Science student with a strong focus on competitive programming an
 
 
 
-##   Projects :
-
-###  Dengue Prediction using ML  
-- Developed a machine learning model to predict dengue outbreaks based on environmental and historical data.  
-- Utilized Python, Pandas, and Scikit-Learn for data processing and model training.  
-
-###  Library Management System  
-- Built a system to efficiently manage library resources, track books, and manage user accounts.  
-- Used Java, MySQL, and JavaFX for an interactive UI.  
-
+<!-- Projects Section -->
+<section class="resume-section" id="projects">
+    <div class="resume-section-content">
+        <h2 class="mb-5">Projects</h2>
+        <div class="row g-4">
+            <!-- Project 1 -->
+            <div class="col-lg-4 col-md-6">
+                <div class="card h-100 shadow">
+                    <div class="card-body">
+                        <h3 class="card-title mb-3">Dengue Prediction</h3>
+                        <div class="subheading mb-3">Machine Learning</div>
+                        <p class="card-text">Leveraging machine learning to predict dengue outbreaks.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Project 2 -->
+            <div class="col-lg-4 col-md-6">
+                <div class="card h-100 shadow">
+                    <div class="card-body">
+                        <h3 class="card-title mb-3"></h3>
+                        <h3 class="card-title mb-3">
+                            Library Management System </h3>
+                        <div class="subheading mb-3">C#,MS sql </div>
+                        <p class="card-text">Developing a system to manage library resources efficiently.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Project 3 -->
+            <div class="col-lg-4 col-md-6">
+                <div class="card h-100 shadow">
+                    <div class="card-body">
+                        <h3 class="card-title mb-3">
+                            End-to-End Enterprise Network Design and Configuration </h3>
+                        <div class="subheading mb-3">Cisco Packet Tracer</div>
+                        <p class="card-text"> configured a scalable network infrastructure for seamless communication..</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<hr class="m-0" />
 ---
 
 ## 🌐 Connect with me  
