@@ -17,34 +17,64 @@ I'm a Computer Science student with a strong focus on competitive programming an
 
 ---
 
+## <p><strong><big>📄</big> <a href="https://github.com/Udipto-Mondal/Resume-/blob/main/Resume.pdf" target="_blank">Resume</a></strong></p>
 
-## 
+## Projects
 
+<div align="center">
+  <table>
+    <tr>
+      <td width="30%" valign="top">
+        <h3>📖 Book Recommender System</h3>
+        <p><strong>Python</strong></p>
+        <p>Built a machine learning-powered book recommendation system that suggests relevant books to users based on their preferences.</p>
+      </td>
+      <td width="30%" valign="top">
+        <h3>📚 Library Management System</h3>
+        <p><strong>C#</strong></p>
+        <p>Developed a comprehensive library management system using C# and SQL databases, including book tracking, membership management, and lending functions.</p>
+      </td>
+      <td width="30%" valign="top">
+        <h3>🎬 Movie Recommendation System</h3>
+        <p><strong>Python, HTML, CSS, JavaScript</strong></p>
+        <p>Implemented a movie recommendation system using collaborative filtering to personalize movie suggestions based on user preferences.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p><strong><big>📄</big> <a href="https://github.com/Udipto-Mondal/Resume-/blob/main/Resume.pdf" target="_blank">Resume</a></strong></p>
+---
 
-  
+## Interests
 
-
-##   Projects :
-
-### 📌 Dengue Prediction using ML  
-- Developed a machine learning model to predict dengue outbreaks based on environmental and historical data.  
-- Utilized Python, Pandas, and Scikit-Learn for data processing and model training.  
-
-### 📌 Library Management System  
-- Built a system to efficiently manage library resources, track books, and manage user accounts.  
-- Used Java, MySQL, and JavaFX for an interactive UI.  
+<div align="center">
+  <table>
+    <tr>
+      <td width="30%" valign="top">
+        <h3>💻 Competitive Programming</h3>
+        <p>I love solving algorithmic problems on platforms like Codeforces and Leetcode.</p>
+      </td>
+      <td width="30%" valign="top">
+        <h3>🤖 Machine Learning</h3>
+        <p>Exploring AI and ML techniques to solve real-world problems.</p>
+      </td>
+      <td width="30%" valign="top">
+        <h3>📖 Reading Books</h3>
+        <p>I enjoy reading books, especially those related to technology, crime thrillers, and detective fiction.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 🌐 Connect with me  
 
 <p align="left">
-<a href="https://linkedin.com/in/udiptamondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udiptamondal" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/udipto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="udipto" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/udipto_mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="udipto_mondal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/udipto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="udipto" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/udiptamondal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udiptamondal" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/udipto" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="udipto" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/udipto_mondal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="udipto_mondal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/udipto" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="udipto" height="30" width="40" /></a>
 </p>
 
 ---
