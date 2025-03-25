@@ -45,7 +45,9 @@ I'm a Computer Science student with a strong focus on competitive programming an
 <a href="https://www.codechef.com/users/udipto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="udipto" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/udipto_mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="udipto_mondal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/udipto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="udipto" height="30" width="40" /></a>
+<a href="https://github.com/Udipto-Mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Udipto-Mondal" height="30" width="40" /></a>
 </p>
+
 
 ---
 
