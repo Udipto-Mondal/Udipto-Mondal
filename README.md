@@ -34,9 +34,13 @@ I'm a Computer Science student with a strong focus on competitive programming an
 
 
 <!-- Projects Section -->
+<!-- Include Bootstrap CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Projects Section -->
 <section class="resume-section" id="projects">
-    <div class="resume-section-content">
-        <h2 class="mb-5">Projects</h2>
+    <div class="container resume-section-content">
+        <h2 class="mb-5 text-white">Projects</h2>
         <div class="row g-4">
             <!-- Project 1 -->
             <div class="col-lg-4 col-md-6">
@@ -52,10 +56,8 @@ I'm a Computer Science student with a strong focus on competitive programming an
             <div class="col-lg-4 col-md-6">
                 <div class="card h-100 shadow">
                     <div class="card-body">
-                        <h3 class="card-title mb-3"></h3>
-                        <h3 class="card-title mb-3">
-                            Library Management System </h3>
-                        <div class="subheading mb-3">C#,MS sql </div>
+                        <h3 class="card-title mb-3">Library Management System</h3>
+                        <div class="subheading mb-3">C#, MS SQL</div>
                         <p class="card-text">Developing a system to manage library resources efficiently.</p>
                     </div>
                 </div>
@@ -64,10 +66,9 @@ I'm a Computer Science student with a strong focus on competitive programming an
             <div class="col-lg-4 col-md-6">
                 <div class="card h-100 shadow">
                     <div class="card-body">
-                        <h3 class="card-title mb-3">
-                            End-to-End Enterprise Network Design and Configuration </h3>
+                        <h3 class="card-title mb-3">Enterprise Network Design</h3>
                         <div class="subheading mb-3">Cisco Packet Tracer</div>
-                        <p class="card-text"> configured a scalable network infrastructure for seamless communication..</p>
+                        <p class="card-text">Configured a scalable network infrastructure for seamless communication.</p>
                     </div>
                 </div>
             </div>
@@ -75,6 +76,7 @@ I'm a Computer Science student with a strong focus on competitive programming an
     </div>
 </section>
 <hr class="m-0" />
+
 ---
 
 ## 🌐 Connect with me  
