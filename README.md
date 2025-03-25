@@ -19,7 +19,18 @@ I'm a Computer Science student with a strong focus on competitive programming an
 
 ## 📝 Resume
 
-📄 [Click here to view my resume](https://github.com/udipto-mondal/Resume.pdf)  
+📄 **[Click here to view my resume](https://github.com/udipto-mondal/your-repo-name/blob/main/Resume.pdf)**  
+
+- 🎓 **Education**: Computer Science Student  
+- 💻 **Technical Skills**:  
+  - Programming Languages: C, C++, Java, Python  
+  - Web Development: HTML, CSS, JavaScript  
+  - Databases: MySQL  
+  - Frameworks: .NET  
+  - Problem Solving: Competitive Programming, Algorithm Optimization  
+- 🏆 **Achievements**:  
+  - ICPC Asia Dhaka Regional Contest 2023 Contestant  
+  - Active participant in Codeforces, CodeChef, LeetCode challenges  
 
 ---
 
@@ -31,7 +42,7 @@ I'm a Computer Science student with a strong focus on competitive programming an
 
 ### 📌 Library Management System  
 - Built a system to efficiently manage library resources, track books, and manage user accounts.  
-- Used C#, SQL Server, and a structured database model.  
+- Used Java, MySQL, and JavaFX for an interactive UI.  
 
 ---
 
@@ -39,4 +50,24 @@ I'm a Computer Science student with a strong focus on competitive programming an
 
 <p align="left">
 <a href="https://linkedin.com/in/udiptamondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udiptamondal" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/udipto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.
+<a href="https://www.codechef.com/users/udipto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="udipto" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/udipto_mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="udipto_mondal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/udipto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="udipto" height="30" width="40" /></a>
+</p>
+
+---
+
+## 🚀 Languages and Tools  
+
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
+</p>
+
+---
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=udipto-mondal&show_icons=true&locale=en&layout=compact" alt="udipto-mondal" /></p>
