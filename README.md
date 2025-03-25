@@ -20,7 +20,7 @@ I'm a Computer Science student with a strong focus on competitive programming an
 
 ## 
 
-<p style="font-size: 24px;">📄 <a href="https://github.com/Udipto-Mondal/Resume-/blob/main/Resume.pdf" target="_blank"><h1>Resume<h1></a></p>
+<p style="font-size: 24px;">📄 <a href="https://github.com/Udipto-Mondal/Resume-/blob/main/Resume.pdf" target="_blank">Resume</a></p>
 
   
 
