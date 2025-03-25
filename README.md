@@ -19,7 +19,7 @@ I'm a Computer Science student with a strong focus on competitive programming an
 
 ## 📝 Resume
 
-📄 **[Click here to view my resume]([https://github.com/udipto-mondal/your-repo-name/blob/main/Resume.pdf](https://github.com/Udipto-Mondal/Resume-))**  
+📄 **[Click here to view my resume]((https://github.com/Udipto-Mondal/Resume-))**  
 
 - 🎓 **Education**: Computer Science Student  
 - 💻 **Technical Skills**:  
