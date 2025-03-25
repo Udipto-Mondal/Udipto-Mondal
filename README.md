@@ -22,7 +22,8 @@ I'm a Computer Science student with a strong focus on competitive programming an
 
 <h1>
   <p>
-    <strong><big></big> 
+    <strong><big>![image](https://github.com/user-attachments/assets/ce2dfbb5-a780-45c9-ad70-351319cec5d9)
+</big> 
       <a href="https://github.com/Udipto-Mondal/Resume-/blob/main/Resume.pdf" target="_blank">
         <u>Resume</u>
       </a>
