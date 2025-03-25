@@ -19,7 +19,7 @@ I'm a Computer Science student with a strong focus on competitive programming an
 
 
 ## 
-📄<h1> [ Resume]<h1>(https://github.com/Udipto-Mondal/Resume-/blob/main/Resume.pdf)
+📄[ Resume](https://github.com/Udipto-Mondal/Resume-/blob/main/Resume.pdf)
   
 
 
