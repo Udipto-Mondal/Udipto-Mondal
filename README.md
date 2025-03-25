@@ -28,11 +28,11 @@ I'm a Computer Science student with a strong focus on competitive programming an
 
 ##   Projects :
 
-### 📌 Dengue Prediction using ML  
+###  Dengue Prediction using ML  
 - Developed a machine learning model to predict dengue outbreaks based on environmental and historical data.  
 - Utilized Python, Pandas, and Scikit-Learn for data processing and model training.  
 
-### 📌 Library Management System  
+###  Library Management System  
 - Built a system to efficiently manage library resources, track books, and manage user accounts.  
 - Used Java, MySQL, and JavaFX for an interactive UI.  
 
