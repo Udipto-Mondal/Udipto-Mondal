@@ -30,6 +30,80 @@ I'm a Computer Science student with a strong focus on competitive programming an
   </p>
 </h1>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fef9f9;
+            text-align: center;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 28px;
+            font-weight: bold;
+        }
+        .projects {
+            display: flex;
+            justify-content: space-between;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            width: 30%;
+            min-width: 250px;
+            text-align: left;
+        }
+        .card h2 {
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .card h3 {
+            font-size: 14px;
+            color: gray;
+            font-weight: bold;
+        }
+        .card p {
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>PROJECTS</h1>
+        <div class="projects">
+            <div class="card">
+                <h2>DENGUE PREDICTION</h2>
+                <h3>MACHINE LEARNING</h3>
+                <p>Leveraging machine learning to predict dengue outbreaks.</p>
+            </div>
+            <div class="card">
+                <h2>LIBRARY MANAGEMENT SYSTEM</h2>
+                <h3>C#, MS SQL</h3>
+                <p>Developing a system to manage library resources efficiently.</p>
+            </div>
+            <div class="card">
+                <h2>END-TO-END ENTERPRISE NETWORK DESIGN AND CONFIGURATION</h2>
+                <h3>CISCO PACKET TRACER</h3>
+                <p>Configured a scalable network infrastructure for seamless communication.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
 
 
 ##   Projects :
