@@ -23,7 +23,7 @@ I'm a Computer Science student with a strong focus on competitive programming an
 <h1>
   <p>
     <strong>
-      <a href="https://raw.githubusercontent.com/Udipto-Mondal/Resume/main/Resume.pdf" target="_blank" style="text-decoration: none; color: white; font-size: 24px;">
+     <a href="https://github.com/Udipto-Mondal/Resume/raw/main/Resume.pdf" target="_blank" style="text-decoration: none; color: white; font-size: 24px;">
         <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="Resume Icon" width="24" height="24" style="vertical-align: middle; margin-right: 8px;">
         Resume
       </a>
