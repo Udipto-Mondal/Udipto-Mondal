@@ -74,6 +74,16 @@ I'm a Computer Science student with a strong focus on competitive programming an
                     </div>
                 </div>
             </div>
+            <!-- Project 4-->
+            <div class="col-lg-4 col-md-6">
+                <div class="card h-100 shadow">
+                    <div class="card-body">
+                        <h3 class="card-title mb-3">School Management System</h3>
+                        <div class="subheading mb-3">C#, MS SQL</div>
+                        <p class="card-text">Designed to make academic operations more efficient for schools.</p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
