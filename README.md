@@ -1,123 +1,87 @@
-<h1 align="center">Hi, I'm Udipto</h1>
-
-<table>
-  <tr>
-    <td>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udipto-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="udipto-mondal" /> </p>
-
-<h4 align="center">
-I'm a Computer Science student with a strong focus on competitive programming and algorithmic problem-solving. My journey in tech is driven by a deep curiosity to understand how things work under the hood and a relentless desire to improve my coding skills.
-</h4>
-
-<p style="color: #007acc;">💡 Exploring: Data Structures, Algorithms, and System Design.</p>
-<p style="color: #ff6347;">🏆 Competing: Active participant in online coding contests (Codeforces, CodeChef, etc.) and contestant of the ICPC Asia Dhaka Regional Contest 2023.</p>
-
- Reach me : **ahondipto@gmail.com**
-
-
-
-
-## 
-
-<h1>
-  <p>
-    <strong>
-    <a href="https://docs.google.com/viewer?url=https://github.com/Udipto-Mondal/Resume/raw/main/Resume.pdf&embedded=true" target="_blank" style="text-decoration: none; color: white; font-size: 24px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="Resume Icon" width="24" height="24" style="vertical-align: middle; margin-right: 8px;">
-        Resume
-      </a>
-    </strong>
-  </p>
-</h1>
-
-
-
-
-
-<!-- Projects Section -->
-<!-- Include Bootstrap CSS -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-
-<!-- Projects Section -->
-<section class="resume-section" id="projects">
-    <div class="container resume-section-content">
-        <h2 class="mb-5 text-white">Projects</h2>
-        <div class="row g-4">
-            <!-- Project 1 -->
-            <div class="col-lg-4 col-md-6">
-                <div class="card h-100 shadow">
-                    <div class="card-body">
-                        <h3 class="card-title mb-3">Dengue Prediction</h3>
-                        <div class="subheading mb-3">Machine Learning</div>
-                        <p class="card-text">Leveraging machine learning to predict dengue outbreaks.</p>
-                    </div>
-                </div>
-            </div>
-            <!-- Project 2 -->
-            <div class="col-lg-4 col-md-6">
-                <div class="card h-100 shadow">
-                    <div class="card-body">
-                        <h3 class="card-title mb-3">Library Management System</h3>
-                        <div class="subheading mb-3">C#, MS SQL</div>
-                        <p class="card-text">Developing a system to manage library resources efficiently.</p>
-                    </div>
-                </div>
-            </div>
-            <!-- Project 3 -->
-            <div class="col-lg-4 col-md-6">
-                <div class="card h-100 shadow">
-                    <div class="card-body">
-                        <h3 class="card-title mb-3">Enterprise Network Design</h3>
-                        <div class="subheading mb-3">Cisco Packet Tracer</div>
-                        <p class="card-text">Configured a scalable network infrastructure for seamless communication.</p>
-                    </div>
-                </div>
-            </div>
-            <!-- Project 4-->
-            <div class="col-lg-4 col-md-6">
-                <div class="card h-100 shadow">
-                    <div class="card-body">
-                        <h3 class="card-title mb-3">School Management System</h3>
-                        <div class="subheading mb-3">C#, MS SQL</div>
-                        <p class="card-text">Designed to make academic operations more efficient for schools.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<hr class="m-0" />
-
----
-
-##  Connect with me  
+# Hi there, I'm Udipto Mondal 👋
 
 <p align="left">
-<a href="https://linkedin.com/in/udiptamondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udiptamondal" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/udipto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="udipto" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/udipto_mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="udipto_mondal" height="30" width="40" /></a>
-
-<a href="https://github.com/Udipto-Mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Udipto-Mondal" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=udipto-mondal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-
-
+I'm a **Computer Science & Engineering** graduate with a strong focus on **Software Development, Machine Learning, and Competitive Programming**.
 
 ---
 
-## Languages and Tools  
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
- 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://learn.microsoft.com/en-us/sql/" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-</p>
+### 📌 About Me
 
-
-
+- 🔭 **Focus Areas:** Machine Learning, Computer Vision, and Backend/Desktop Application Development.
+- 🎓 **Undergraduate Thesis:** *Machine Learning-Based Predictive Modeling for Early Detection of Dengue Disease*.
+- 🏆 **Competitive Programming:** Active participant in online coding platforms and **ICPC Asia Dhaka Regional Contestant (2023)**.
+- 📄 **Resume:** [View My Resume](https://docs.google.com/viewer?url=https://github.com/Udipto-Mondal/Resume/raw/main/Resume.pdf&embedded=true)
+- 💬 **Ask Me About:** Python, C++, C#, Data Structures & Algorithms, and Computer Vision (YOLO).
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=udipto-mondal&show_icons=true&locale=en&layout=compact" alt="udipto-mondal" /></p>
+### 🛠️ Languages & Tools
+
+**Languages:**  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="36" height="36"/>
+</p>
+
+**Frameworks & Libraries:**  
+`Scikit-Learn` • `Flask` • `YOLOv11` • `Pandas` • `NumPy` • `.NET`
+
+**Tools & Platforms:**  
+`Git` • `GitHub` • `VS Code` • `Visual Studio` • `Kaggle`
+
+---
+
+### 🚀 Key Projects
+
+- **[Falcon AI — Autonomous Border Surveillance](https://github.com/Udipto-Mondal)**  
+  *Python, Flask, YOLOv11, Computer Vision*  
+  Real-time autonomous perimeter and border monitoring system using YOLOv11 for object and threat detection.
+
+- **[Dengue Disease Outbreak Prediction](https://github.com/Udipto-Mondal)**  
+  *Python, Scikit-learn, Pandas, ML*  
+  Supervised machine learning model forecasting dengue disease occurrences using historical meteorological and environmental data.
+
+- **[School Management System](https://github.com/Udipto-Mondal)**  
+  *C#, MS SQL Server, .NET*  
+  Desktop management system featuring role-based dashboards for students, teachers, and administration.
+
+- **[Library Management System](https://github.com/Udipto-Mondal)**  
+  *C#, MS SQL Server*  
+  Desktop application for managing library catalog, book issuance, returns, and inventory records.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=udipto-mondal&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udipto-mondal&layout=compact&theme=default&hide_border=false" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/udiptamondal" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="28" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Udipto-Mondal" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="28" width="28" />
+  </a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/udipto_mondal" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="28" width="28" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/udipto" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="28" width="28" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:ahondipto@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="28" width="28" />
+  </a>
+</p>
