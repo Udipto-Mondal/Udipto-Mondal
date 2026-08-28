@@ -68,11 +68,10 @@ I'm a **Computer Science & Engineering** graduate with a strong focus on **Auton
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=udipto-mondal&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" height="145" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udipto-mondal&layout=compact&theme=default&hide_border=false" alt="Top Languages" height="145" />
+  <img src="https://streak-stats.demolab.com/?user=Udipto-Mondal&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -81,8 +80,8 @@ I'm a **Computer Science & Engineering** graduate with a strong focus on **Auton
 
 <p align="left">
   <a href="https://udipta-mondal.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-udipta--mondal.vercel.app-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Portfolio-udipta--mondal.vercel.app-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/udiptamondal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Udipta%20Mondal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
