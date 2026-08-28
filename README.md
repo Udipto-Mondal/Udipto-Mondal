@@ -3,6 +3,103 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=udipto-mondal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+# Hi there, I'm Udipto Mondal 👋
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=udipto-mondal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+I'm a **Computer Science & Engineering** graduate with a strong focus on **Machine Learning, Computer Vision, Software Development, and Competitive Programming**.
+
+---
+
+### 📌 About Me
+
+- 🔬 **Research & Thesis:** *Machine Learning-Based Predictive Modeling for Early Detection of Dengue Disease*.
+- 🦅 **AI Development:** Building real-time autonomous surveillance and computer vision systems (Falcon AI).
+- 🏆 **Competitive Programming:** Active problem solver & **ICPC Asia Dhaka Regional Contestant (2023)**.
+- 📄 **Resume:** [View My Resume](https://docs.google.com/viewer?url=https://github.com/Udipto-Mondal/Resume/raw/main/Resume.pdf&embedded=true)
+- 💬 **Ask Me About:** Python, C++, C#, Machine Learning, Computer Vision (YOLOv11), and Data Structures & Algorithms.
+
+---
+
+### 🛠️ Technical Skills
+
+- **Languages:** `Python` • `C++` • `C#` • `SQL`
+- **Frameworks & Libraries:** `scikit-learn` • `Flask` • `YOLOv11`
+- **Tools & Platforms:** `VS Code` • `Visual Studio` • `Kaggle` • `GitHub` • `Git`
+- **Core Concepts:** `Machine Learning` • `Computer Vision` • `Data Structures & Algorithms` • `OOP`
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="34" height="34"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="34" height="34"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="34" height="34"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL" width="34" height="34"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="34" height="34"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="34" height="34"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="34" height="34"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="34" height="34"/>
+</p>
+
+---
+
+### 🚀 Projects
+
+#### 🦅 Falcon AI: Autonomous Border Surveillance System
+> **Tech:** *Python, Flask, YOLOv11, Computer Vision*  
+- Built a real-time autonomous surveillance system using **Python, Flask, and YOLOv11** for critical border and perimeter monitoring.
+- Leveraged computer vision and tactical data analysis to detect threats, prevent civilian casualties, and deliver actionable intelligence to frontier forces.
+
+---
+
+#### 🦟 Predictive Modeling for Early Dengue Detection *(Undergraduate Research Thesis)*
+> **Tech:** *Python, scikit-learn, Machine Learning, Data Preprocessing*  
+- Developed a supervised machine learning model to predict dengue outbreaks using environmental and meteorological data (rainfall, temperature).
+- Applied extensive data preprocessing, feature engineering, and rigorous model evaluation techniques.
+
+---
+
+#### 🏫 School Management System *(Desktop Application)*
+> **Tech:** *C#, MS SQL Server*  
+- Built a role-based desktop management system for managing students, teachers, attendance, fees, and academic records.
+- Designed separate access panels for admin, teachers, and students with a structured relational database architecture.
+
+---
+
+#### 📚 Library Management System
+> **Tech:** *C#, MS SQL Server*  
+- Designed a desktop application for managing book inventory, cataloging, borrowing, and return records efficiently.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=udipto-mondal&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" height="145" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udipto-mondal&layout=compact&theme=default&hide_border=false" alt="Top Languages" height="145" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/udiptamondal" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="28" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Udipto-Mondal" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="28" width="28" />
+  </a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/udipto_mondal" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="28" width="28" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/udipto" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="28" width="28" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:ahondipto@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="28" width="28" />
+  </a>
+</p>
 
 I'm a **Computer Science & Engineering** graduate with a strong focus on **Software Development, Machine Learning, and Competitive Programming**.
 
