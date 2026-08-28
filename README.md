@@ -13,7 +13,7 @@ I'm a **Computer Science & Engineering** graduate with a strong focus on **Auton
 - 🤖 **AI & Autonomous Agents:** Building multi-agent intelligence frameworks ([ResearchFlow AI](https://github.com/Udipto-Mondal/ResearchFlow-AI)) and real-time computer vision systems ([Falcon AI](https://github.com/Udipto-Mondal)).
 - 🔬 **Research Thesis:** *Machine Learning-Based Predictive Modeling for Early Detection of Dengue Disease*.
 - 🌐 **Live Portfolio:** [udipta-mondal.vercel.app](https://udipta-mondal.vercel.app/)
-- 📄 **Resume:** [View My Resume](https://docs.google.com/viewer?url=https://github.com/Udipto-Mondal/Resume/raw/main/Resume.pdf&embedded=true)
+- 📄 **Resume:** [View My Resume]([https://docs.google.com/viewer?url=https://github.com/Udipto-Mondal/Resume/raw/main/Resume.pdf&embedded=true](https://udipta-mondal.vercel.app/assets/resume.pdf))
 - 💬 **Ask Me About:** Python, C++, C#, Machine Learning, Multi-Agent Systems (CrewAI), and Computer Vision (YOLOv11).
 
 ---
