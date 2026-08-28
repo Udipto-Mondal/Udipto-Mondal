@@ -68,11 +68,7 @@ I'm a **Computer Science & Engineering** graduate with a strong focus on **Auton
 
 ---
 
-### 📊 GitHub Activity
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Udipto-Mondal&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-</p>
 
 ---
 
