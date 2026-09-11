@@ -15,15 +15,15 @@ I'm a **Computer Science & Engineering** graduate with a strong focus on **Auton
 - 🔬 **Research Thesis:** *Machine Learning-Based Predictive Modeling for Early Detection of Dengue Disease* ([Code](https://github.com/Udipto-Mondal/Dengue_Prediction_Version2.0)).
 - 🌐 **Live Portfolio:** [udipta-mondal.vercel.app](https://udipta-mondal.vercel.app/)
 - 📄 **Resume:** [View My Resume](https://udipta-mondal.vercel.app/assets/resume.pdf)
-- 💬 **Ask Me About:** Python, C++, C#, Machine Learning, Multi-Agent Systems (CrewAI), Computer Vision (YOLOv11), FastAPI & Docker.
+- 💬 **Ask Me About:** Python, C++, Machine Learning, Multi-Agent Systems (CrewAI), Computer Vision (YOLOv11), FastAPI & Docker.
 
 ---
 
 ### 🛠️ Technical Skills
 
-- **Languages:** `Python` • `C++` • `C#` • `JavaScript` • `SQL`
+- **Languages:** `Python` • `C++` • `SQL`
 - **AI & Machine Learning:** `scikit-learn` • `TensorFlow` • `Keras` • `CrewAI` • `YOLOv11` • `OpenCV` • `ChromaDB (RAG)`
-- **Frameworks & Web:** `FastAPI` • `Flask` • `Streamlit` • `React` • `Next.js`
+- **Frameworks & Web:** `FastAPI` • `Streamlit` 
 - **DevOps & Tools:** `Docker` • `Git` • `GitHub` • `Render` • `Vercel` • `VS Code` • `Visual Studio`
 - **Core Competencies:** `Machine Learning` • `Computer Vision` • `Agentic AI` • `Data Structures & Algorithms (ICPC Regionalist)` • `OOP`
 
