@@ -1,4 +1,4 @@
-# Hi there, I'm Udipto Mondal 👋
+# Hi there, I'm Udipto Mondal 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=udipto-mondal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
